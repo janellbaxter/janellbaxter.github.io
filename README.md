@@ -8,7 +8,7 @@ An example of a portfolio in GitHub, created for coding and programming courses 
 > 
 > Information would be here
 
-<img width="2287" height="1684" alt="Screenshot 2025-08-29 053503" src="https://github.com/user-attachments/assets/47b83bd2-687a-497c-bed0-3314d2609d4d" />
+<img width="600"  alt="Screenshot 2025-08-29 053503" src="https://github.com/user-attachments/assets/47b83bd2-687a-497c-bed0-3314d2609d4d" />
 
 
 
@@ -30,7 +30,7 @@ Description of my awesome game.
 
 
 
-<img width="1526" height="713" alt="Screenshot 2025-10-24 141548" src="https://github.com/user-attachments/assets/66e4f75b-5a42-4973-a484-cc94755c0ffd" />
+<img width="600"  alt="Screenshot 2025-10-24 141548" src="https://github.com/user-attachments/assets/66e4f75b-5a42-4973-a484-cc94755c0ffd" />
 
 ### 🖼️Composition Creator
 Creates random compositions using Processing.
