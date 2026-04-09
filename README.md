@@ -1,3 +1,4 @@
+<a id="#top"></a>
 # Programming Portfolio 
 An example of a portfolio in GitHub, created for coding and programming courses at Columbia College Chicago. Use markdown and GitHub's walkthrough to build a portfolio showcasing your work from class.
 
@@ -120,4 +121,4 @@ private void Play()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists)
+[Code Projects](#code-projects) | [C# Projects](#c-sharp-projects) | [Gists](#code-gists) | [Top](#top)
